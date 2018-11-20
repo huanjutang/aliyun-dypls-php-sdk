@@ -21,7 +21,8 @@
     "autoload": {
         "psr-4": {
             "Aliyun\\": "lib/",
-            "Aliyun\\Test\\": "tests/"
+            "Aliyun\\Test\\": "tests/",
+            "AliyunMNS\\": "lib/MNS"
         }
     }
 }
