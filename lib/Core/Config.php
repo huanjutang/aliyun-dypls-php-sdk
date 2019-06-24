@@ -4,11 +4,6 @@ namespace Aliyun\Core;
 
 use Aliyun\Core\Regions\EndpointConfig;
 
-//config http proxy
-define('HTTP_PROXY_IP', '127.0.0.1');
-define('HTTP_PROXY_PORT', '8888');
-
-
 class Config
 {
     private static $loaded = false;
